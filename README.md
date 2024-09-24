@@ -1,16 +1,23 @@
-## Hi there 👋
+# Привет! 👋
 
-<!--
-**remezovskyi2508/remezovskyi2508** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я Fullstack-разработчик, изучающий новые технологии и языки программирования. Вот мой прогресс:
 
-Here are some ideas to get you started:
+## 🔥 Мой прогресс в изучении языков
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![HTML](https://img.shields.io/badge/HTML-90%25-brightgreen)
+![CSS](https://img.shields.io/badge/CSS-85%25-brightgreen)
+![JavaScript](https://img.shields.io/badge/JavaScript-80%25-yellow)
+![React](https://img.shields.io/badge/React-70%25-yellowgreen)
+
+## 📊 GitHub Статистика
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИКНЕЙМ&show_icons=true&theme=radical)
+
+## 📈 Статистика языков в репозиториях
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИКНЕЙМ&layout=compact&theme=radical)
+
+## 📚 Сейчас изучаю
+- Polish 🇵🇱
+- English 🇬🇧
+- TypeScript ⚡
