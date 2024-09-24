@@ -1,36 +1,8 @@
+<div style="background-color: #333333; color: #FFFFFF; padding: 20px; border-radius: 8px;">
+
 # Hi there! 👋
 
 I am a Fullstack Developer exploring new technologies and programming languages. Here's my progress:
-
-<!--
-## 🛠️ Tech Skills
-
-<div style="display: flex; flex-wrap: wrap;">
-
-<div style="flex: 1; min-width: 200px;">
-### Frontend
-- HTML5/CSS3/SASS
-- JavaScript
-- React
-- React Native
-- Redux
-- Bootstrap
-- Responsive/Adaptive Design
-- GULP
-
-</div>
-
-<div style="flex: 1; min-width: 200px;">
-
-### Backend
-- Node.js
-- TypeScript
-- HTTP response
-- Scrum, Agile, GTD
-
-</div>
-
-</div> -->
 
 ## 🛠️ Achievements
 
@@ -112,3 +84,4 @@ I am a Fullstack Developer exploring new technologies and programming languages.
 
 </div>
 
+</div>
