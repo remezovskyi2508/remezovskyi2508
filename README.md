@@ -60,7 +60,7 @@ I am a Fullstack Developer exploring new technologies and programming languages.
 | 🇺🇦 Ukrainian | Native         |
 | 🇷🇺 Russian   | C2            |
 | 🇵🇱 Polish    | B1            |
-| us English   | A2            |
+| :us: English   | A2            |
 
 ## 📱 Connect with Me
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/anton-remezovskyi-852765210)
