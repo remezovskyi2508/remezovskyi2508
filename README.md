@@ -11,11 +11,11 @@
 
 ## 📊 GitHub Статистика
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_НИКНЕЙМ&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=remezovskyi2508&show_icons=true&theme=radical)
 
 ## 📈 Статистика языков в репозиториях
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_НИКНЕЙМ&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=remezovskyi2508&layout=compact&theme=radical)
 
 ## 📚 Сейчас изучаю
 - Polish 🇵🇱
